@@ -1,16 +1,34 @@
-## Hi there 👋
+# Khian Victory 🌟
 
-<!--
-**khianvictorycalderon/khianvictorycalderon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Khian Victory, a **Web Developer** 💻.
 
-Here are some ideas to get you started:
+## About Me 🧑‍💻
+I'm a web developer committed to building high-quality, modern websites with passion, precision, and a focus on meeting client expectations. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 🛠️
+- **Front-End Website Development** 🌐
+- **Back-End Website System Development** 🔧
+- **Website Search Engine Optimization (SEO)** 📈
+- **Website UI Designing** 🎨
+- **Website Responsive UI Designing** 📱
+- **Website Publishing (Static Deployment)** 🌍
+- **Website Analytics** 📊
+- **Website Testing and Debugging** 🐞
+
+## Languages 💬
+- **React** ⚛️
+- **Bootstrap** 🎨
+- **Firebase Web** 🔥
+- **PHP** 🖥️
+- **MySQL** 🗃️
+- **Python** 🐍
+- **JavaScript** ⚡
+- **CSS** ✨
+- **HTML** 📝
+- **And currently studying more!** 📚
+
+## Visit My Website 🌍
+For more information and my major projects, visit [my website](https://khian.netlify.app/)
+
+## Contact Me 📧
+You can reach me at [khianpublicmail@gmail.com](mailto:khianpublicmail@gmail.com)
