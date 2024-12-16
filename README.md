@@ -1,9 +1,5 @@
 # Khian Victory 🌟
-
-Hello, I'm Khian Victory, a **Web Developer** 💻.
-
-## About Me 🧑‍💻
-I'm a web developer committed to building high-quality, modern websites with passion, precision, and a focus on meeting client expectations. 🚀
+I'm a Bachelor of Science in Information Technology Student. 🚀
 
 ## Skills 🛠️
 - **Front-End Website Development** 🌐
