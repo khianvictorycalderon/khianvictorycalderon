@@ -1,7 +1,5 @@
 ### Khian Victory 🌟
-# BSIT (Bachelor of Science in Information Technology) Student. 🚀
-
----
+### BSIT (Bachelor of Science in Information Technology) Student. 🚀
 
 ## Skills 🛠️
 - **Front-End Website Development** 🌐
