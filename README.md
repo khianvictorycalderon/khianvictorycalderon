@@ -11,7 +11,7 @@ I'm a Bachelor of Science in Information Technology Student. 🚀
 - **Website Analytics** 📊
 - **Website Testing and Debugging** 🐞
 
-## Languages 💬
+## Technologies💬
 - **React** ⚛️
 - **Bootstrap** 🎨
 - **Firebase Web** 🔥
@@ -21,10 +21,9 @@ I'm a Bachelor of Science in Information Technology Student. 🚀
 - **JavaScript** ⚡
 - **CSS** ✨
 - **HTML** 📝
-- **And currently studying more!** 📚
 
 ## Visit My Website 🌍
-For more information and my major projects, visit [my website](https://khian.netlify.app/)
+For more information and my major website projects, visit [my website](https://khian.netlify.app/)
 
 ## Contact Me 📧
 You can reach me at [khianpublicmail@gmail.com](mailto:khianpublicmail@gmail.com)
