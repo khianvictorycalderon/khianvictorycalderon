@@ -38,4 +38,4 @@
 
 
 ## Visit My Website 🌍
-For more information and my major website projects, visit [my website](https://khian.netlify.app/)
+For more information and my major project websites, visit [my website](https://khian.netlify.app/)
