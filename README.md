@@ -5,6 +5,7 @@ I'm an Information Technology Student, I specialized in Web Developing!🌐
 ## My Skills (in Website Development) 🛠️
 - **Front-End** 🌐
 - **Back-End** 🔧
+- **Database** 📇
 - **Search Engine Optimization** 📈
 - **User Interface Designing** 🎨
 - **Responsive Interface Designing** 📱
