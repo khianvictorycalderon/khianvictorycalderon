@@ -26,7 +26,7 @@ I'm an Information Technology Student, I specialized in Web Developing!🌐
 ## Education 🎓✨
 
 ### Senior High / Secondary Education 📚
-- **🏫 ARK Technological Institute Educational System Incorporated**
+- **🏫 ARK Technological Institute Educational System Incorporated (Lucena)**
   - 📅 2021 - 2023
   - 💻 Information Communication Technology  
 
