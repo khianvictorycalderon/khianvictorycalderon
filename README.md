@@ -1,15 +1,16 @@
-# Khian Victory - IT Student🌟
-## Skills 🛠️
-- **Front-End Website Development** 🌐
-- **Back-End Website System Development** 🔧
-- **Website Search Engine Optimization (SEO)** 📈
-- **Website UI Designing** 🎨
-- **Website Responsive UI Designing** 📱
-- **Website Publishing (Static Deployment)** 🌍
-- **Website Analytics** 📊
-- **Website Testing and Debugging** 🐞
+# Hello, I'm Khian Victory, an Information Technology Student🌟
+## I specialized in Web Developing!🌐
 
-## Technologies💬
+## My Skills (in Website Development) 🛠️
+- **Front-End** 🌐
+- **Back-End** 🔧
+- **Search Engine Optimization** 📈
+- **User Interface Designing** 🎨
+- **Responsive Interface Designing** 📱
+- **Hosting / Deployment (Static Only)** 🌍
+- **Google Analytics** 📊
+
+## Technologies I Utilize💬
 - **React** ⚛️
 - **Bootstrap** 🎨
 - **Firebase Web** 🔥
