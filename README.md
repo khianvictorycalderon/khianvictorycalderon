@@ -1,5 +1,5 @@
 # Hello, I'm Khian Victory, an Information Technology Student🌟
-## I specialized in Web Developing!🌐
+# I specialized in Web Developing!🌐
 
 ## My Skills (in Website Development) 🛠️
 - **Front-End** 🌐
