@@ -39,6 +39,5 @@ I'm an Information Technology Student, I specialized in Web Developing!🌐
   - 📅 2024 - 2028 (Expected)
   - 💻 Bachelor of Science in Information Technology
 
-
 ## Visit My Website 🌍
 For more information and my major project websites, visit [my website](https://khian.netlify.app/)
