@@ -1,5 +1,5 @@
 # Hello, I'm Khian Victory👋
-I'm an Information Technology Student, I specialized in Web Developing!🌐
+I'm currently an Information Technology Student at Dalubhasaan ng Lungsod ng Lucena, I specialized in Web Developing!🌐
 
 
 ## My Skills (in Website Development) 🛠️
@@ -22,22 +22,6 @@ I'm an Information Technology Student, I specialized in Web Developing!🌐
 - **JavaScript** ⚡
 - **CSS** ✨
 - **HTML** 📝
-
-## Education 🎓✨
-
-### Senior High📚
-- **🏫 ARK Technological Institute Educational System Incorporated (Lucena)**
-  - 📅 2021 - 2023
-  - 💻 Information Communication Technology  
-
-### College🎓
-- **🏛️ Southern Luzon State University Lucena**
-  - 📅 2023 - 2024
-  - 🛠️ Bachelor in Industrial Technology  
-
-- **🏛️ Dalubhasaan ng Lungsod ng Lucena**
-  - 📅 2024 - 2028 (Expected)
-  - 💻 Bachelor of Science in Information Technology
 
 ## Visit My Website 🌍
 For more information and my major project websites, visit [my website](https://khian.netlify.app/)
