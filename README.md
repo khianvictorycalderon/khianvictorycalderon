@@ -27,3 +27,7 @@ I never uploads unfinished project in GitHub, all of my projects here are finish
 
 ## Visit My Website 🌍
 For more information and my major project websites, visit [my website](https://khian.netlify.app/)
+
+## My WireFrame Projects 🌐
+- [Real Estate Website](https://www.figma.com/proto/sBA6D40raiROKRjZ44Ut4x/Real-Estate-Wireframe-1) ✨
+- [Business Template](https://www.figma.com/proto/lhnRVZDtoBZzcDA4JvwfyT/Business-WireFrame-1) 📈
