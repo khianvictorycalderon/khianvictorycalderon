@@ -8,7 +8,7 @@ I never uploads unfinished project in GitHub, all of my projects here are finish
 - **Front-End** 🌐
 - **Back-End** 🔧
 - **Database** 📇
-- **Search Engine Optimization** 📈
+- **SEO (Search Engine Optimization)** 📈
 - **User Interface Designing** 🎨
 - **Responsive Interface Designing** 📱
 - **Hosting / Deployment (Static Only)** 🌍
