@@ -1,7 +1,7 @@
 # Hello, I'm Khian Victory👋
 I'm currently an Information Technology Student at Dalubhasaan ng Lungsod ng Lucena, I specialized in Web Developing!🌐
 
-I never uploads unfinished project in GitHub, all of my projects here are finished, some are demo only.
+I never uploads unfinished project in GitHub, all of my projects here are finished, some are demo only.📄
 
 
 ## My Skills (in Website Development) 🛠️
