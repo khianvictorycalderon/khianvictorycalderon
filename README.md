@@ -1,8 +1,7 @@
 # Hello, I'm Khian Victory👋
-I'm currently an Information Technology Student at Dalubhasaan ng Lungsod ng Lucena, I specialized in Web Developing!🌐
+I'm currently an Information Technology Student at Dalubhasaan ng Lungsod ng Lucena, I specialized in Web Developing, more details at my website!🌐
 
 I never uploads unfinished project in GitHub, all of my projects here are finished, some are demo only.📄
-
 
 ## My Skills (in Website Development) 🛠️
 - **Front-End** 🌐
@@ -24,9 +23,6 @@ I never uploads unfinished project in GitHub, all of my projects here are finish
 - **JavaScript** ⚡
 - **CSS** ✨
 - **HTML** 📝
-
-## Visit My Website 🌍
-For more information and my major project websites, visit [my website](https://khian.netlify.app/)
 
 ## My WireFrame Projects 🌐
 - [Real Estate Website](https://www.figma.com/proto/sBA6D40raiROKRjZ44Ut4x/Real-Estate-Wireframe-1) ✨
