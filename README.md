@@ -6,12 +6,9 @@ I never uploads unfinished project in GitHub, all of my projects here are finish
 ## My Skills (in Website Development) 🛠️
 - **Front-End** 🌐
 - **Back-End** 🔧
-- **Database** 📇
 - **SEO (Search Engine Optimization)** 📈
-- **User Interface Designing** 🎨
-- **Responsive Interface Designing** 📱
 - **Hosting / Deployment (Static Only)** 🌍
-- **Google Analytics** 📊
+- **More skills on my official Website!** 📊
 
 ## Technologies I Utilize💬
 - **React** ⚛️
@@ -23,6 +20,7 @@ I never uploads unfinished project in GitHub, all of my projects here are finish
 - **JavaScript** ⚡
 - **CSS** ✨
 - **HTML** 📝
+- **JQuery** 🧑‍💻
 
 ## My WireFrame Projects 🌐
 - [Real Estate Website](https://www.figma.com/proto/sBA6D40raiROKRjZ44Ut4x/Real-Estate-Wireframe-1) ✨
