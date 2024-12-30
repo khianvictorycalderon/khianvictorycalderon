@@ -6,7 +6,7 @@ I never uploads unfinished project in GitHub, all of my projects here are finish
 ## My Skills (in Website Development) 🛠️
 - **Front-End** 🌐
 - **Back-End** 🔧
-- **SEO (Search Engine Optimization)** 📈
+- **Search Engine Optimization** 📈
 - **Hosting / Deployment (Static Only)** 🌍
 - **More skills on my official Website!** 📊
 
