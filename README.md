@@ -13,14 +13,8 @@ I never uploads unfinished project in GitHub, all of my projects here are finish
 ## Technologies I Utilize💬
 - **React** ⚛️
 - **Bootstrap** 🎨
-- **Firebase Web** 🔥
-- **PHP** 🖥️
-- **MySQL** 🗃️
 - **Python** 🐍
-- **JavaScript** ⚡
-- **CSS** ✨
-- **HTML** 📝
-- **JQuery** 🧑‍💻
+- **More technologies on my official Website!** 📊
 
 ## My WireFrame Projects 🌐
 - [Real Estate Website](https://www.figma.com/proto/sBA6D40raiROKRjZ44Ut4x/Real-Estate-Wireframe-1) ✨
