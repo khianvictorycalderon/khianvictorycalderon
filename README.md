@@ -4,7 +4,7 @@ I'm currently an Information Technology Student at Dalubhasaan ng Lungsod ng Luc
 ## My Skills (in Website Development) 🛠️
 - **Front-End** 🌐
 - **Back-End** 🔧
-- **SEO(Search Engine Optimization)** 📈
+- **SEO (Search Engine Optimization)** 📈
 - **Hosting / Deployment (Static Only)** 🌍
 - **Many More!** 📊
 
