@@ -1,6 +1,8 @@
 # Hello, I'm Khian Victory👋
 I'm currently an Information Technology Student at Dalubhasaan ng Lungsod ng Lucena specializing in Web Development!🌐
 
+*My netlify projects are separated from my GitHub projects, visit my website to browse all my major projects.🌐*
+
 ## My Skills (in Website Development) 🛠️
 - **Front-End** 🌐
 - **Back-End** 🔧
