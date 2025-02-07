@@ -16,10 +16,6 @@ I'm currently an Information Technology Student at Dalubhasaan ng Lungsod ng Luc
 - **Python** 🐍
 - **Many More!** 📊
 
-## My WireFrame Projects 🌐
-- [Real Estate Website](https://www.figma.com/proto/sBA6D40raiROKRjZ44Ut4x/Real-Estate-Wireframe-1) ✨
-- [Business Template](https://www.figma.com/proto/lhnRVZDtoBZzcDA4JvwfyT/Business-WireFrame-1) 📈
-
 ## Choose react templates [HERE](https://drive.google.com/drive/folders/10EdR6J8s11DMEcTSv4Nv9Sx-NpUmkiKj?usp=drive_link). 🛠️
 
 ### Full details about me on my website! 🌐
