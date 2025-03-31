@@ -1,13 +1,14 @@
 # Hello, I'm Khian Victory👋
 I'm currently an Information Technology Student at Dalubhasaan ng Lungsod ng Lucena specializing in Web Development!🌐
 
-## My Web Dev Skills 🛠️
-- **Front-End** 🌐
-- **Back-End** 🔧
-- **Deployment (Static Only)** 🌍
-- **Many More!** 📊
+## My Favorite Web Projects 🌐
+- **[GenGrade: Student Grades Management System](https://gengrade.netlify.app/)**
+- **[Chatterplex: Real-Time Chat](https://chatterplex.netlify.app/)**
+- **[KV Bot: Chat Bot](https://kvbot.netlify.app/)**
+- **[Unigma: Ultimate Enigma](https://unigma.netlify.app/)**
+- **[Article Story](https://articlestory.netlify.app/)**
 
-## Web Dev Tech Stacks💬
+## My Web Dev Tech Stacks💬
 - **React** ⚛️
 - **Bootstrap** 🎨
 - **Firebase** 🔥
