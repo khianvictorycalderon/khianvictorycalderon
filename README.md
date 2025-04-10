@@ -2,6 +2,7 @@
 I'm currently an Information Technology Student at Dalubhasaan ng Lungsod ng Lucena specializing in Web Development!🌐
 
 ## My Favorite Web Projects 🌐
+- **[StockIMS: Inventory Management System](https://stockims.netlify.app/)**
 - **[GenGrade: Student Grades Management System](https://gengrade.netlify.app/)**
 - **[Chatterplex: Real-Time Chat](https://chatterplex.netlify.app/)**
 - **[KV Bot: Chat Bot](https://kvbot.netlify.app/)**
