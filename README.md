@@ -24,8 +24,8 @@ I'm currently an Information Technology Student at Dalubhasaan ng Lungsod ng Luc
 - **Firebase** 🔥
 - **Many More!** 📊
 
-## Choose react templates [HERE](https://drive.google.com/drive/folders/10EdR6J8s11DMEcTSv4Nv9Sx-NpUmkiKj?usp=drive_link). 🛠️
+### Choose react templates [HERE](https://drive.google.com/drive/folders/10EdR6J8s11DMEcTSv4Nv9Sx-NpUmkiKj?usp=drive_link). 🛠️
 
 ### Full details about me on my [website](https://khian.netlify.app)! 🌐
 
-## My rank in [Most Active Github Users in Philippines](https://committers.top/philippines.html#khianvictorycalderon) 🇵🇭
+### My rank in [Most Active Github Users in Philippines](https://committers.top/philippines.html#khianvictorycalderon) 🇵🇭
