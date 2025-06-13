@@ -17,11 +17,11 @@ I'm currently an Information Technology Student at Dalubhasaan ng Lungsod ng Luc
 
 ## My Tech Stacks💬
 - **React** ⚛️
-- **React-Native** ⚛️
-- **Python** 🐍
-- **Tkinter** 🖥️
 - **Bootstrap** 🎨
 - **Firebase** 🔥
+- **Python** 🐍
+- **CustomTkinter** 🖥️
+- **React-Native** ⚛️
 - **Many More!** 📊
 
 ## Choose React Templates 🛠️
