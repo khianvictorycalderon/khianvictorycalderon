@@ -10,6 +10,7 @@ I'm currently an Information Technology Student at Dalubhasaan ng Lungsod ng Luc
 - **[Article Story](https://articlestory.netlify.app/)** 📖
 
 ## My Favorite Desktop Application Projects 💻
+- **[Project Manager System](https://github.com/khianvictorycalderon/Project-Manager)** 📜
 - **[Treasury Management System](https://github.com/khianvictorycalderon/Treasury-Management-System)** 💰
 
 ## My Favorite Mobile Application Projects 📱
