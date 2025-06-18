@@ -8,22 +8,25 @@ I'm currently an Information Technology Student at Dalubhasaan ng Lungsod ng Luc
 - **[KV Bot: Chat Bot](https://kvbot.netlify.app/)** 🤖
 - **[Unigma: Ultimate Enigma](https://unigma.netlify.app/)** 🔐
 - **[Article Story](https://articlestory.netlify.app/)** 📖
+- More Website Projects [Here](https://khian.netlify.app/#?section=Website_Projects) 🌐
 
 ## My Favorite Desktop Application Projects 💻
 - **[Project Manager System](https://github.com/khianvictorycalderon/Project-Manager)** 📜
 - **[Treasury Management System](https://github.com/khianvictorycalderon/Treasury-Management-System)** 💰
+- More Desktop App Projects [Here](https://khian.netlify.app/#?section=Desktop_Projects) 💻
 
 ## My Favorite Mobile Application Projects 📱
 - **[Simple Calculator](https://github.com/khianvictorycalderon/Simple-Calculator)** ➗
+- More Mobile App Projects [Here](https://khian.netlify.app/#?section=Mobile_Projects) 📱
 
-## My Tech Stacks💬
+## My Tech Stacks 💬
 - **React** ⚛️
 - **Bootstrap** 🎨
 - **Firebase** 🔥
 - **Python** 🐍
 - **CustomTkinter** 🖥️
 - **React-Native** ⚛️
-- **Many More!** 📊
+- More Tech Stacks [Here](https://khian.netlify.app/#?section=Tech_Stacks) 💬
 
 ## Choose React Templates 🛠️
 [Click here to browse my React templates](https://drive.google.com/drive/folders/10EdR6J8s11DMEcTSv4Nv9Sx-NpUmkiKj?usp=drive_link)
