@@ -17,7 +17,7 @@ I'm currently an Information Technology Student at Dalubhasaan ng Lungsod ng Luc
 - More Desktop App Projects [Here](https://khian.netlify.app/#?section=Desktop_Projects) 💻
 
 ## My Favorite Mobile Application Projects 📱
-- **[Simple Calculator](https://github.com/khianvictorycalderon/Simple-Calculator)** ➗
+- **[PayCal: Payment Calculator](https://github.com/khianvictorycalderon/PayCal)** ➗
 - More Mobile App Projects [Here](https://khian.netlify.app/#?section=Mobile_Projects) 📱
 
 ## My Tech Stacks 💬
