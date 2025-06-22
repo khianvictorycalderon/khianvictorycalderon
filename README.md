@@ -13,6 +13,7 @@ I'm currently an Information Technology Student at Dalubhasaan ng Lungsod ng Luc
 ## My Favorite Desktop Application Projects 💻
 - **[Project Manager System](https://github.com/khianvictorycalderon/Project-Manager)** 📜
 - **[Treasury Management System](https://github.com/khianvictorycalderon/Treasury-Management-System)** 💰
+- **[Employee Time In Out System](https://github.com/khianvictorycalderon/Employee-Time-In-Out-System)** 👨🏻‍🔧
 - More Desktop App Projects [Here](https://khian.netlify.app/#?section=Desktop_Projects) 💻
 
 ## My Favorite Mobile Application Projects 📱
