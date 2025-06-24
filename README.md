@@ -34,6 +34,3 @@ I'm currently an Information Technology Student at Dalubhasaan ng Lungsod ng Luc
 
 ## Learn More About Me 🌐
 [Visit my portfolio website](https://khian.netlify.app)
-
-## My GitHub Committers Rank 🇵🇭
-[Top 100 Most Active GitHub Users in the Philippines](https://committers.top/philippines.html#khianvictorycalderon)
