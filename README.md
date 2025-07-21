@@ -29,8 +29,5 @@ I'm currently an Information Technology Student at Dalubhasaan ng Lungsod ng Luc
 - **React-Native** ⚛️
 - More Tech Stacks [Here](https://khian.netlify.app/#?section=Tech_Stacks) 💬
 
-## Choose React Templates 🛠️
-[Click here to browse my React templates](https://drive.google.com/drive/folders/10EdR6J8s11DMEcTSv4Nv9Sx-NpUmkiKj?usp=drive_link)
-
 ## Learn More About Me 🌐
 [Visit my portfolio website](https://khian.netlify.app)
