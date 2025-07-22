@@ -8,26 +8,21 @@ I'm currently an Information Technology Student at Dalubhasaan ng Lungsod ng Luc
 - **[KV Bot: Chat Bot](https://kvbot.netlify.app/)** 🤖
 - **[Unigma: Ultimate Enigma](https://unigma.netlify.app/)** 🔐
 - **[Article Story](https://articlestory.netlify.app/)** 📖
-- More Website Projects [Here](https://khian.netlify.app/#?section=Website_Projects) 🌐
 
 ## My Favorite Desktop Application Projects 💻
 - **[Project Manager System](https://github.com/khianvictorycalderon/Project-Manager)** 📜
 - **[Treasury Management System](https://github.com/khianvictorycalderon/Treasury-Management-System)** 💰
 - **[Employee Time In Out System](https://github.com/khianvictorycalderon/Employee-Time-In-Out-System)** 👨🏻‍🔧
-- More Desktop App Projects [Here](https://khian.netlify.app/#?section=Desktop_Projects) 💻
 
 ## My Favorite Mobile Application Projects 📱
 - **[PayCal: Payment Calculator](https://github.com/khianvictorycalderon/PayCal)** ➗
-- More Mobile App Projects [Here](https://khian.netlify.app/#?section=Mobile_Projects) 📱
 
 ## My Tech Stacks 💬
 - **React** ⚛️
-- **Bootstrap** 🎨
-- **Firebase** 🔥
-- **Python** 🐍
+- **Tailwind CSS** 🎨
+- **Next.js** 🇳
 - **CustomTkinter** 🖥️
-- **React-Native** ⚛️
-- More Tech Stacks [Here](https://khian.netlify.app/#?section=Tech_Stacks) 💬
+- **React Native** ⚛️
 
 ## Learn More About Me 🌐
 [Visit my portfolio website](https://khian.netlify.app)
